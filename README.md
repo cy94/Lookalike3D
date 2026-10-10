@@ -10,7 +10,7 @@
 
 ---
 
-Joint 3D object reconstruction and part co-segmentation of identical and near-identical objects from multiview images. We introduce the **3DTwins** dataset — 76k manually annotated object pairs from ScanNet++ — and a multiview image transformer that achieves a 104% IoU improvement over baselines.
+Joint 3D object reconstruction and part co-segmentation of identical and near-identical objects from multiview images. We introduce the **3DTwins** dataset of 76k manually annotated object pairs from ScanNet++, and a multiview image transformer that achieves a 104% IoU improvement over baselines.
 
 ---
 
