@@ -1,6 +1,6 @@
 # Lookalike3D: Seeing Double in 3D
 
-[<ins>Paper</ins>](https://arxiv.org/abs/2603.24713) | [<ins>Project Page</ins>](https://cy94.github.io/lookalike3d/)
+[<ins>Paper</ins>](https://arxiv.org/abs/2603.24713) | [<ins>Project Page</ins>](https://cy94.github.io/lookalike3d/) | [<ins>Video</ins>](https://www.youtube.com/watch?v=g6S7J0y_52U)
 
 ![teaser](img/teaser.jpg)
 
